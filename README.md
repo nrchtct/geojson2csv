@@ -2,5 +2,5 @@
 
 Quick and dirty way to convert GeoJSON from OpenStreetMap to CSV to be consumed by HERE Data Lens.
 
-Here is a [running version](mariandoerk.de/temp/geojson2csv/ "GeoJSON2CSV").
+Here is a [running version](http://mariandoerk.de/temp/geojson2csv/ "GeoJSON2CSV").
 
