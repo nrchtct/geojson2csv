@@ -27,7 +27,7 @@ else:
 <html>
 <head>
 <meta charset="utf-8">
-<title></title>
+<title>GeoJSON2CSV</title>
 </head>
 <body>
 
